@@ -8,9 +8,9 @@
 
 *Variable transformations and feature engineering done.
 
-* "LogisticRegression, GaussianNB, KNN, LinearSVC, SVC, CART, RF, GBM, XGBoost, LightGBM, CatBoost " machine learning models were tried.
+*"LogisticRegression, GaussianNB, KNN, LinearSVC, SVC, CART, RF, GBM, XGBoost, LightGBM, CatBoost " machine learning models were tried.
 
-*  "XGBoost" was used as the latest model.
+*Developed with "XGBoost" model.
 
 *The best parameters were found with the GridSearchCV method by tuning the model.
 
