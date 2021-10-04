@@ -1,6 +1,6 @@
 **TITANIC SURVIVAL PREDICTION
 
-*In this challenge, we ask you to build a predictive model that answers the question: “what sorts of people were more likely to survive?” using passenger data (ie name, age, gender, socio-economic class, etc).
+*In this project, "What kinds of people are most likely to survive on the Titanic?" A predictive model answering the question was developed using passenger data (ie name, age, gender, socio-economic class, etc).
 
 *Project of Titanic is END TO END work.
 
