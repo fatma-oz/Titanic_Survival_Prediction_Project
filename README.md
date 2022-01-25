@@ -1,4 +1,4 @@
-**TITANIC SURVIVAL PREDICTION
+# TITANIC SURVIVAL PREDICTION
 
 *In this project, "What kinds of people are most likely to survive on the Titanic?" A predictive model answering the question was developed using passenger data (ie name, age, gender, socio-economic class, etc).
 
